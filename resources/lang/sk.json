@@ -1,0 +1,11 @@
+{
+  "novaSortable.reorderingDisabledTooltip.activeSort": "Zmena poradia nie je k dispozícií s aktívnym zoraďovacím filtrom.",
+  "novaSortable.reorderingDisabledTooltip.notAllowed": "Zmena poradia nie je povolená pre tento objekt.",
+  "novaSortable.moveToStart": "Presunúť na začiatok",
+  "novaSortable.moveToEnd": "Presunúť na koniec",
+  "novaSortable.reorderSuccessful": "Poradie objektov bolo úspešne upravené.",
+  "novaSortable.moveToStartSuccessful": "Objekt bol presunutý na prvú pozíciu.",
+  "novaSortable.moveToEndSuccessful": "Objekt bol presunutý na poslednú pozíciu.",
+  "novaSortable.reorderError": "Nastala chyba pri pokuse o zmenu poradia.",
+  "novaSortable.reorderNotAllowedFor": "Zmena poradia pre objekt s ID :id nie je povolená."
+}
